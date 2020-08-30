@@ -4,7 +4,7 @@
 cd /var/lib/backuppc/pc
 ```
 
-### Thay đổi user thực hiện rsync khi sử dụng ssh-key-coppy không phải `root`:
+### Thay đổi user thực hiện rsync khi sử dụng ssh-key-copy không phải `root`:
 
 - Tìm và thay đổi lại thông tin của 2 command bên dưới , ví dụ ở đây khi thay đổi tài khoản từ root sang backuppc
 
